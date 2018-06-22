@@ -5,4 +5,4 @@ Gitの練習をしていきます。
 ・git rm
 ・git status
 ・git diff  ローカルとステージングの差分
-・git push GitHUBへ送信
+・git push origin master GitHUBへ送信
